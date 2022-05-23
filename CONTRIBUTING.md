@@ -8,7 +8,7 @@ title: Contributing to Aptos Core
 Our goal is to make contributing to Aptos Core easy and transparent.
 
 ## Aptos Core
-
+vhy
 To contribute to the Aptos Core implementation, first start with the proper development copy.
 
 To get the development installation with all the necessary dependencies for linting, testing, and building the documentation, run the following:
